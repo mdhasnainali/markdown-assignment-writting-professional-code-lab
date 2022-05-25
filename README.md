@@ -24,10 +24,12 @@ f 1 (ω)=
 
 ![Cat in the cage](./image/cat.png)
 
-`library(tidyverse)
+```
+library(tidyverse)
 library(mdsr)
 SAT_2010 %>% ggplot(aes(write,..density..)) + geom_histogram() +
-geom_density() + theme_minimal() + labs(title = "SAT Writing Scores")`
+geom_density() + theme_minimal() + labs(title = "SAT Writing Scores") 
+```
 
 
 # Table with alignment
@@ -48,6 +50,18 @@ Additionally, if you would like to submit your lab as part of the 6.S191 lab com
 instructions regarding what information must be submitted is also provided at the end of
 each lab.</p>
 
+## License
+All code in this repository is copyright 2022 [MIT 6.S191 Introduction to Deep Learning][MIT Link]. All
+Rights Reserved.
+
+
+Licensed under the MIT License. You may not use this file except in compliance with the
+License. Use and/or modification of this code outside of 6.S191 must reference:
+
+> © MIT 6.S191: Introduction to Deep Learning
+> [http://introtodeeplearning.com][MIT Link]
+
+[MIT Link]: http://introtodeeplearning.com
 
 
 
