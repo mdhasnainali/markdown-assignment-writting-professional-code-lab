@@ -4,9 +4,11 @@
 
 
 <center>
-First equation: $Y =Xβ+ϵ y , ∀X $ <br>
+
+First equation: $ Y =Xβ+ϵ y , ∀X $ <br>
 Second equation: $X=Zγ+ϵ x $ <br>
-$ f_{1} (ω)= \frac{{σ^2}}{2π} , ω∈[−π,π] $
+$f_{1} (ω)= \frac{{σ^2}}{2π} , ω∈[−π,π] $
+
 </center>
 
 
@@ -64,14 +66,4 @@ License. Use and/or modification of this code outside of 6.S191 must reference:
 > [http://introtodeeplearning.com][MIT Link]
 
 [MIT Link]: http://introtodeeplearning.com
-
-
-
-
-
-
-
-
-
-
 
