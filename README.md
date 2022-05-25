@@ -3,27 +3,18 @@
 ### Some Math Equation
 
 <center>
-First equation: Y =Xβ+ϵ y , ∀X
-Second equation: X=Zγ+ϵ x
-2
-σ
-f 1 (ω)=
-, ω∈[−π,π]
 
-&theta;
-&delta;
-&pi;
-
+$$ First equation: Y =Xβ+ϵ y , ∀X $$
+$$ Second equation: X=Zγ+ϵ x $$
+$$ f_{1} (ω)= \frac{{σ^2}}{2π} , ω∈[−π,π] $$
 </center>
 
 
-1. First item
-    a. first sub-item 
-        A) first sub-sub-item 
-    b. second sub-item
+
+
+1. First item a. first sub-item A) first sub-sub-item b. second sub-item
 2. Second item
-3. Third item 
-    a. second sub item
+3. Third item a. second sub item
 4. Fourth Item
 
 - First Item
