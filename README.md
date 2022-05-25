@@ -3,16 +3,12 @@
 ### Some Math Equation
 
 
-<center>
 
-$$ First equation:  Y =Xβ+ϵ y , ∀X $$ 
-$$ Second equation: X=Zγ+ϵ x $$
-$$ f_{1} (ω)= \frac{{σ^2}}{2π} , ω∈[−π,π] $$
-
-
-</center>
-
-
+<p align="center">
+First  equation:  $Y =Xβ+ϵ y , ∀X $ <br>
+Second equation: $X=Zγ+ϵ x $ <br>
+$f_{1} (ω)= \frac{{σ^2}}{2π} , ω∈[−π,π] $
+</p>
 
 
 1. First item a. first sub-item A) first sub-sub-item b. second sub-item
